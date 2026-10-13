@@ -1,0 +1,24 @@
+input[type="text"]{
+    box-shadow: 3px 2px 3px 2px #ccc;
+}
+
+.result{
+    box-shadow: 3px 2px 3px 2px #675a5a;
+    border-radius:20px;
+}
+
+li{
+    display: flex;
+    justify-content:space-between;
+    
+}
+
+.div{
+    width:400px;
+    height:10px;
+    background-color: brown;
+    margin: auto;
+    margin-bottom: 30px;
+    border-radius:30px;
+}
+
